@@ -1,6 +1,34 @@
-frontend-nanodegree-arcade-game
+FEND P3 Arcade Game: Frogger
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Overview
+This is a 3rd project of Udacity's Front-End Web Developer Nanodegree (FEND). Using **object-oriented JavaScript** recreate the classic arcade game Frogger with provided assets and codes.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## How to Run
+* Live version [Frogger Arcade Game](http://)
+
+* #### Local
+1. Clone this repo
+```
+$ git clone https://
+```
+2. Serve the application
+```
+$ python -m SimpleHTTPServer
+```
+3. Open the application
+```
+$ open "http://localhost:8000"
+```
+
+
+## How to Play
+1. Use arrow keys (← ↑ → ↓) to move player across the canvas.
+2. Cross the stone roads to the river without colliding into enemies (bugs).
+3. Reach the river? You won! (But you can do it again.)
+* If you don't make it, don't worry. You have enteranl life. (so far, but it will be limitted.)
+
+## Resources
+* Udacity FEND Project 3: Classic Arcade Game Clone
+* Google Fonts
+* jQeury
