@@ -10,7 +10,7 @@ This is a 3rd project of Udacity's Front-End Web Developer Nanodegree (FEND). Us
 * #### Local
 1. Clone this repo
 ```
-$ git clone https://
+$ git clone https://github.com/JieWonC/P3-Frogger-Arcade-Game.git
 ```
 2. Serve the application
 ```
