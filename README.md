@@ -5,7 +5,7 @@ FEND P3 Arcade Game: Frogger
 This is a 3rd project of Udacity's Front-End Web Developer Nanodegree (FEND). Using **object-oriented JavaScript** recreate the classic arcade game Frogger with provided assets and codes.
 
 ## How to Run
-* Live version [Frogger Arcade Game](http://)
+* Live version [Frogger Arcade Game](https://jiewonc.github.io/P3-Frogger-Arcade-Game/)
 
 * #### Local
 1. Clone this repo
